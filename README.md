@@ -12,7 +12,7 @@
     - install dependencies
     - python3 -m bot
     
-## Thanks ❤️
+## Thanks ❤️ for Reference
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
 
